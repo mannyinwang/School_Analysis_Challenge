@@ -33,7 +33,7 @@ From the table above, the values before and after the 9th grades from Thomas Hig
 
 
 
-#### School Summary
+### School Summary
 
 |                                                 | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 | ----------------------------------------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
@@ -46,19 +46,19 @@ Table 2 shows the school summary for Thomas High School (THS). The omittance of 
 
 
 
-#### Thomas High School Performance
+### Thomas High School Performance
 
-Thomas High School was still ranked the 3rd best performing school despite the omission on the 9th graders grade. 
+Thomas High School was still ranked the 3rd best performing school despite the omission on the 9th graders grade and all other schools retained their original positions.
 
 
 
-#### Math and Reading scores by grade
+### Math and Reading Scores by Grade
 
 The math and reading scores were null for the 9th grade and this did not affect the grades of the other schools .
 
 
 
-#### Scores by school spending
+### Scores by School Spending
 
 | **Spending Ranges (Per Student)** | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 | --------------------------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
@@ -82,7 +82,7 @@ Tables 3  and 4 classifies the score by the school spending and THS falls in the
 
 ​				
 
-#### Scores by school size
+### Scores by School Size
 
 | **School Size**   | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 | ----------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
@@ -104,7 +104,7 @@ There is no significant difference with or without the 9th graders grades.
 
 
 
-#### Scores by school type
+### Scores by School Type
 
 | **School Type** | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 | --------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
@@ -128,10 +128,10 @@ Also, like the score by school spending and school size there was no significant
 
 From the analysis, the following were being measured in regards to the school metrics:
 
-1. Average Math Score
-2. Average Reading Score
-3. % Passing Math
-4. % Passing Reading
-5. % Overall Passing
+- Average Math Score
+- Average Reading Score
+- % Passing Math
+- % Passing Reading
+- % Overall Passing
 
 The above measurements changed when Thomas High School 9th Graders grades were omitted. Although the changes were slight, it did not have very significant impact to the analysis or the results.
