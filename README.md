@@ -31,6 +31,8 @@ The school district metrics are as follows:
 
 From the table above, the values before and after the 9th grades from Thomas High School were taken out are almost equal to each other. There is a small disparity between the values. 
 
+
+
 #### School Summary
 
 |                                                 | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
@@ -41,6 +43,8 @@ From the table above, the values before and after the 9th grades from Thomas Hig
 ​																			Table 2: School Summary for Thomas High School
 
 Table 2 shows the school summary for Thomas High School (THS). The omittance of the THS 9th graders grade did affect the other schools in the district but only affect the metrics for THS.
+
+
 
 #### Thomas High School Performance
 
