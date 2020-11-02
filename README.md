@@ -80,7 +80,7 @@ The math and reading scores were null for the 9th grade and this did not affect 
 
 Tables 3  and 4 classifies the score by the school spending and THS falls in the $630 - 644 range. The is no significant difference in the values when THS 9th graders grades were removed.			
 
-​				
+		
 
 ### Scores by School Size
 
